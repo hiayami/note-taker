@@ -39,6 +39,9 @@ No installation necessary to use the application.
 ## Usage
 Simply click on the URL link deployed to use the application.
 https://protected-fortress-07258.herokuapp.com/ 
+
+![Note-taker](https://user-images.githubusercontent.com/98536530/167009674-d5b134ef-0cab-4ecb-9f5e-1d387d7f1a4f.gif)
+
 ## License
 Read more about MIT License here: [MIT License](https://opensource.org/licenses/MIT)
 ## How to Contribute
