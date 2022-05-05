@@ -38,6 +38,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 No installation necessary to use the application. 
 ## Usage
 Simply click on the URL link deployed to use the application.
+https://protected-fortress-07258.herokuapp.com/ 
 ## License
 Read more about MIT License here: [MIT License](https://opensource.org/licenses/MIT)
 ## How to Contribute
